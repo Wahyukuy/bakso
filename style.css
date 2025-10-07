@@ -1,20 +1,23 @@
 body {
-  backround-color: #FF0000
-  font-family: arial, sans-serief
-color: #191970
+    background-color: #FF0000;
+    font-family: arial, sans-serif;
+    color: #191970;
 }
 
 .kartu-profil {
-  width: 300px;
-  margin: 50px auto;
-  padding: 20px;
-  background-color: yellow;
-  border-radius: 15px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  text-align: center;
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: yellow;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
 
 .kartu-profil img {
-  width: 150px;
-  border-radius: 50%;
+    width: 150px;
+    border-radius: 50%;
+    /* Kode penengah gambar */
+    display: block; 
+    margin: 0 auto; 
 }
